@@ -1,0 +1,12 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": ["Madrid", "París", "Roma", "Berlín"],
+    "respuesta": 1
+  },
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "opciones": ["Van Gogh", "Picasso", "Da Vinci", "Rembrandt"],
+    "respuesta": 2
+  }
+]
