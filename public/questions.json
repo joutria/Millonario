@@ -1,12 +1,202 @@
 [
   {
-    "pregunta": "¿Cuál es la capital de Francia?",
-    "opciones": ["Madrid", "París", "Roma", "Berlín"],
-    "respuesta": 1
+    "pregunta": "¿Por qué Jetro aconsejó a Moisés delegar responsabilidades en hombres capaces, temerosos de Dios y veraces (Éxodo 18:21), y qué enseñanza práctica se extrae para el liderazgo espiritual y comunitario?",
+    "opciones": [],
+    "respuesta": "Jetro vio que Moisés se desgastaba al asumir toda la carga de juicio y dirección del pueblo. Su consejo muestra que el liderazgo debe ser compartido y que la autoridad se ejerce mejor cuando se delega en personas fieles, íntegras y temerosas de Dios. Enseña que el liderazgo bíblico no es individualista, sino apoyado en un equipo con valores espirituales sólidos.",
+    "tipo": "analisis"
   },
   {
-    "pregunta": "¿Quién pintó la Mona Lisa?",
-    "opciones": ["Van Gogh", "Picasso", "Da Vinci", "Rembrandt"],
-    "respuesta": 2
+    "pregunta": "¿Qué fundamento teológico ofrece Éxodo 22:21–27 para las obligaciones sociales hacia extranjeros, viudas, huérfanos y pobres, y qué impacto tiene esto en la identidad comunitaria de Israel?",
+    "opciones": [],
+    "respuesta": "Éxodo 22 vincula la memoria de la experiencia de Israel en Egipto con la obligación moral de proteger a los vulnerables. La ley social es consecuencia teológica: cuidar al forastero y no explotar al pobre expresa el carácter de Dios. El castigo ante la injusticia muestra que la justicia social es central en la fidelidad a Yahvé.",
+    "tipo": "analisis"
+  },
+  {
+    "pregunta": "¿Qué representaba el Arca para el pueblo de Israel y qué representa para nosotros hoy?",
+    "opciones": [],
+    "respuesta": "El arca representaba la presencia de Dios entre su pueblo. Contenía las tablas del testimonio, símbolo del pacto. Apunta a Cristo y su obra redentora; el propiciatorio prefiguraba el sacrificio de Jesús. Hoy representa la presencia del Espíritu Santo y el acceso al trono de la gracia.",
+    "tipo": "analisis"
+  },
+  {
+    "pregunta": "¿Por qué era necesario que Aarón y sus hijos fueran consagrados antes de servir como sacerdotes (Éxodo 29:1)?",
+    "opciones": [],
+    "respuesta": "Porque Dios es santo y exige que quienes le sirvan estén apartados y dedicados solo a Él. La consagración mostraba que el sacerdocio era un ministerio santo. En el NT también se enseña que debemos santificarnos para servir a Dios.",
+    "tipo": "analisis"
+  },
+  {
+    "pregunta": "¿Qué significado espiritual tiene el aceite puro de olivas usado para mantener encendida continuamente la lámpara (Éxodo 27:20-21) y cómo se relaciona con nuestra vida cristiana hoy?",
+    "opciones": [],
+    "respuesta": "El aceite representa al Espíritu Santo. Mantener la lámpara encendida simboliza la comunión constante con Dios y una vida llena del Espíritu. Enseña que la fe debe ser constante y perseverante, iluminando al mundo.",
+    "tipo": "analisis"
+  },
+  {
+    "pregunta": "¿Cuál fue la advertencia específica que dio Dios a Israel respecto al tipo de ofrenda que se debía evitar sobre el Altar del Incienso, para no profanarlo? (Éxodo 30:9)",
+    "opciones": [
+      "No ofreceréis sobre él incienso extraño, ni holocausto, ni ofrenda, ni derramaréis sobre él libación.",
+      "Solo podréis ofrecer incienso si es traído por el sumo sacerdote y no por sus hijos.",
+      "Solo podréis ofrecer el incienso al mediodía."
+    ],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "¿Cuáles son las cuatro cualidades éticas y morales esenciales que Jetro sugirió para seleccionar a los hombres que servirían como jueces, según Éxodo 18:21?",
+    "opciones": [
+      "Hombres de valor, de la tribu de Leví, que supieran escribir, y que hubieran estado en Egipto.",
+      "Hombres de valor, temerosos de Dios, veraces (amantes de la verdad), y que aborrecieran la avaricia.",
+      "Hombres que tuvieran experiencia legal, que supieran negociar, que fueran fuertes y que supieran pastorear."
+    ],
+    "respuesta": 1,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "¿Cuál es la función específica que Jetro aconsejó a Moisés que conservara para sí, en lugar de delegarla a otros jueces, según Éxodo 18:19-20?",
+    "opciones": [
+      "Ser el representante del pueblo ante Dios y enseñarles las ordenanzas y leyes.",
+      "Juzgar las causas más pequeñas de la vida diaria.",
+      "Dirigir el campamento militar y la vanguardia del viaje."
+    ],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "Según Éxodo 17:6, ¿qué golpeó Moisés en Horeb para que saliera agua?",
+    "opciones": ["Una roca", "Un árbol", "La arena"],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "Según Éxodo 15:11, ¿qué pregunta se hace Moisés sobre Jehová?",
+    "opciones": ["¿Quién como tú entre los dioses?", "¿Quién como tú entre los hombres?", "¿Quién como tú entre los reyes?"],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "Según Éxodo 10:22, ¿cuánto tiempo duraron las tinieblas sobre Egipto?",
+    "opciones": ["Tres días", "Siete días", "Diez días"],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "Según Éxodo 7:12, ¿qué sucedió con las varas de los magos egipcios?",
+    "opciones": ["Se convirtieron en serpientes también", "Desaparecieron en humo", "Se volvieron piedras"],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "En el segundo mandamiento, Dios se describe a sí mismo como un Dios celoso. ¿Sobre cuántas generaciones indica que castigará la iniquidad de los que le aborrecen? (Éxodo 20:4-6)",
+    "opciones": ["Hasta la tercera y cuarta.", "Hasta la quinta y sexta.", "Hasta la décima generación."],
+    "respuesta": 0,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "¿Qué metáfora principal utilizó Dios para describir el cuidado con que sacó a Israel de Egipto, cuando le habló a Moisés desde el monte? (Éxodo 19:4)",
+    "opciones": [
+      "Como en alas de paloma, trayéndonos a tierra segura.",
+      "Como llevando el arca sobre vuestros hombros.",
+      "Cómo os tomé sobre alas de águilas, y os he traído a mí."
+    ],
+    "respuesta": 2,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "Si Israel obedecía el pacto de Dios, ¿Cuál de los siguientes roles prometió Dios que Israel desempeñaría en relación con el resto de las naciones, según Éxodo 19:5-6?",
+    "opciones": [
+      "Serían la nación más poderosa militarmente y tendrían dominio sobre todos los pueblos.",
+      "Serían un tesoro especial (propiedad peculiar) entre todos los pueblos y un reino de sacerdotes y nación santa.",
+      "Tendrían el derecho exclusivo de realizar sacrificios y serían los únicos en recibir revelación."
+    ],
+    "respuesta": 1,
+    "tipo": "seleccion multiple"
+  },
+  {
+    "pregunta": "Según 'le dará la libertad por razón de su ojo.' (Éxodo 21:26) la palabra libertad es antónimo de:",
+    "opciones": ["Servidumbre", "Autonomía", "Franquicia", "Independencia"],
+    "respuesta": 0,
+    "tipo": "sinonimos y antonimos"
+  },
+  {
+    "pregunta": "Según 'fuera hallado el ladrón, y fuere herido y muriese.' (Éxodo 22:2) la palabra muriese es sinónimo de:",
+    "opciones": ["Viviese", "Pereciese", "Renaciese", "Subsistiese"],
+    "respuesta": 1,
+    "tipo": "sinonimos y antonimos"
+  },
+  {
+    "pregunta": "Según 'No admitirás falso rumor.' (Éxodo 23:1) la palabra admitirás es antónimo de:",
+    "opciones": ["Permitirás", "Rechazarás", "Aceptarás", "Autorizarás"],
+    "respuesta": 1,
+    "tipo": "sinonimos y antonimos"
+  },
+  {
+    "pregunta": "Según 'y se sentó el pueblo a comer y a beber, y se regocijaron.' (Éxodo 32:6) la palabra regocijaron es antónimo de:",
+    "opciones": ["Gozaron", "Entristecieron", "Celebraron", "Disfrutaron"],
+    "respuesta": 1,
+    "tipo": "sinonimos y antonimos"
+  },
+  {
+    "pregunta": "Según 'el modelo del tabernáculo, y el modelo de todos sus utensilios.' (Éxodo 25:9) la palabra modelo es sinónimo de:",
+    "opciones": ["Original", "Patrón", "Error", "Desviación"],
+    "respuesta": 1,
+    "tipo": "sinonimos y antonimos"
+  },
+  {
+    "pregunta": "Y la casa de Israel lo llamó _______; y era como semilla de culantro, blanco, y su sabor como de hojuelas con miel. (Éxodo 16:31)",
+    "opciones": [],
+    "respuesta": "Maná",
+    "tipo": "completa"
+  },
+  {
+    "pregunta": "Entonces Jehová dijo a Moisés: El _______ de Faraón está endurecido, y no quiere dejar ir al pueblo. (Éxodo 7:14)",
+    "opciones": [],
+    "respuesta": "corazón",
+    "tipo": "completa"
+  },
+  {
+    "pregunta": "Y dijo Jehová a Moisés: Cuando hayas vuelto a Egipto, mira que hagas delante de Faraón todas las _______ que he puesto en tu mano; pero yo endureceré su corazón, de modo que no dejará ir al pueblo. (Éxodo 4:21)",
+    "opciones": [],
+    "respuesta": "maravillas",
+    "tipo": "completa"
+  },
+  {
+    "pregunta": "Y toda la congregación de los hijos de Israel murmuró contra Moisés y Aarón en el _______. (Éxodo 16:2)",
+    "opciones": [],
+    "respuesta": "desierto",
+    "tipo": "completa"
+  },
+  {
+    "pregunta": "Porque si tú llegas a _______ y ellos clamaren a mí, ciertamente oiré yo su clamor. (Éxodo 22:23)",
+    "opciones": [],
+    "respuesta": "afligirles",
+    "tipo": "completa"
+  },
+  {
+    "pregunta": "Según Éxodo 32:28-35 ¿Qué castigo recayó sobre los que adoraron el becerro?",
+    "opciones": [],
+    "respuesta": "Los hijos de Leví ejecutaron a unos tres mil hombres, y luego Dios envió una plaga sobre el pueblo.",
+    "tipo": "pregunta abierta"
+  },
+  {
+    "pregunta": "Según Éxodo 29:1 ¿Qué animales debían ofrecerse en el ritual de consagración?",
+    "opciones": [],
+    "respuesta": "Un becerro y dos carneros sin defecto.",
+    "tipo": "pregunta abierta"
+  },
+  {
+    "pregunta": "Según Éxodo 20:14 ¿Cuál es el séptimo mandamiento?",
+    "opciones": [],
+    "respuesta": "No cometerás adulterio.",
+    "tipo": "pregunta abierta"
+  },
+  {
+    "pregunta": "Según Éxodo 16:19-20 ¿Qué sucedía si alguien guardaba el maná para el día siguiente?",
+    "opciones": [],
+    "respuesta": "Se llenaba de gusanos y hedía.",
+    "tipo": "pregunta abierta"
+  },
+  {
+    "pregunta": "Según Éxodo 14:27-28 ¿Qué pasó con el ejército del Faraón cuando intentó seguirlos?",
+    "opciones": [],
+    "respuesta": "Las aguas los cubrieron y no quedó ninguno de ellos.",
+    "tipo": "pregunta abierta"
   }
 ]

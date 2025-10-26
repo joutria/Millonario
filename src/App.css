@@ -37,7 +37,7 @@
   padding: 2em;
 }
 
-/* Millonario custom styles inspired by Vite */
+/* Sabio custom styles inspired by Vite */
 .App {
   max-width: 900px;
   margin: 2rem auto;
@@ -48,7 +48,7 @@
 .config-card, .helpers-box, .card {
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
   border-radius: 12px;
-  padding: 1rem 1.2rem;
+  padding: 1.4rem 1.6rem;  /* More padding for cards */
   box-shadow: 0 6px 18px rgba(2,6,23,0.6), inset 0 1px 0 rgba(255,255,255,0.02);
   border: 1px solid rgba(255,255,255,0.04);
 }
@@ -61,16 +61,18 @@
 
 .Question p {
   font-weight: 600;
-  font-size: 1.15rem;
-  margin-bottom: 8px;
+  font-size: 1.8rem;  /* Even larger question text for projection */
+  margin-bottom: 16px;
+  line-height: 1.5;
 }
 
 .answer-button {
   width: 100%;
   text-align: left;
-  padding: 0.8rem 1rem;
+  padding: 1rem 1.2rem;  /* More padding */
   border-radius: 8px;
-  margin: 6px 0;
+  margin: 8px 0;
+  font-size: 1.15rem;  /* Larger button text */
   background: linear-gradient(180deg, #111111, #0f0f0f);
   color: #e6e6e6;
   border: 1px solid rgba(255,255,255,0.03);
@@ -110,10 +112,11 @@
 
 /* Timer (semáforo) styles */
 .timer {
-  padding: 0.25rem 0.6rem;
+  padding: 0.4rem 0.8rem;  /* More padding */
   border-radius: 8px;
   font-weight: 700;
-  min-width: 90px;
+  min-width: 120px;  /* Wider timer */
+  font-size: 1.2rem;  /* Larger timer text */
   text-align: center;
   transition: background 220ms ease, color 220ms ease, box-shadow 220ms ease, transform 160ms ease;
 }
@@ -176,5 +179,78 @@
 
 .button {
   padding: 0.6rem 0.9rem;
+}
+
+/* Help configuration styles */
+.help-config select {
+  margin-left: 8px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: #1a1a1a;
+  color: inherit;
+  border: 1px solid rgba(255,255,255,0.1);
+  font-size: 1rem;
+}
+
+.help-config select:focus {
+  border-color: #646cff;
+  outline: none;
+}
+
+.help-config option {
+  background: #1a1a1a;
+  color: inherit;
+}
+
+/* Question type colors - only apply when not answered */
+.button:not(.answer-correct):not(.answer-wrong).question-type-seleccion {
+  background: linear-gradient(180deg, #2c3e50, #1a252f);
+  border-color: rgba(52, 152, 219, 0.3);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-completa {
+  background: linear-gradient(180deg, #4a148c, #311b92);
+  border-color: rgba(101, 31, 255, 0.3);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-abierta {
+  background: linear-gradient(180deg, #1565c0, #0d47a1);
+  border-color: rgba(33, 150, 243, 0.3);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-analisis {
+  background: linear-gradient(180deg, #263238, #37474f);
+  border-color: rgba(96, 125, 139, 0.3);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-sinonimos {
+  background: linear-gradient(180deg, #004d40, #00695c);
+  border-color: rgba(0, 150, 136, 0.3);
+}
+
+/* Hover states for question types - only when not answered */
+.button:not(.answer-correct):not(.answer-wrong).question-type-seleccion:hover:not(:disabled) {
+  background: linear-gradient(180deg, #3498db, #2980b9);
+  transform: translateY(-2px);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-completa:hover:not(:disabled) {
+  background: linear-gradient(180deg, #6a1b9a, #4a148c);
+  transform: translateY(-2px);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-abierta:hover:not(:disabled) {
+  background: linear-gradient(180deg, #1976d2, #1565c0);
+  transform: translateY(-2px);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-analisis:hover:not(:disabled) {
+  background: linear-gradient(180deg, #37474f, #455a64);
+  transform: translateY(-2px);
+}
+
+.button:not(.answer-correct):not(.answer-wrong).question-type-sinonimos:hover:not(:disabled) {
+  background: linear-gradient(180deg, #00796b, #00695c);
+  transform: translateY(-2px);
 }
 

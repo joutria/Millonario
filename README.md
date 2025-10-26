@@ -19,9 +19,9 @@ If you are developing a production application, we recommend updating the config
 export default defineConfig([
   globalIgnores(['dist']),
   {
-    # Millonario — ¿Quién quiere ser millonario?
+    # Sabio — ¿Quién quiere ser sabio?
 
-    Proyecto de ejemplo (React + TypeScript + Vite) que implementa un juego tipo "¿Quién quiere ser millonario?".
+    Proyecto de ejemplo (React + TypeScript + Vite) que implementa un juego tipo "¿Quién quiere ser sabio?".
 
     Este README explica cómo ejecutar el proyecto, las opciones del juego, el formato de preguntas y notas útiles para desarrolladores.
 
@@ -38,7 +38,7 @@ export default defineConfig([
 
     ## Descripción
 
-    Millonario es una implementación simple del popular formato de preguntas y respuestas. Las preguntas se cargan desde `public/questions.json`. El jugador puede configurar:
+    Sabio es una implementación simple del popular formato de preguntas y respuestas. Las preguntas se cargan desde `public/questions.json`. El jugador puede configurar:
 
     - Si las preguntas serán mostradas en orden o aleatoriamente.
     - Qué ayudas estarán disponibles (50/50, Llamada a un amigo, Ayuda del público).
@@ -51,7 +51,7 @@ export default defineConfig([
     En PowerShell (Windows):
 
     ```powershell
-    cd "d:\Users\joutria\Documents\Git projects\Millonario"
+    cd "d:\Users\joutria\Documents\Git projects\Sabio"
     npm install
     npm run dev    # ejecuta Vite en modo desarrollo
     ```
